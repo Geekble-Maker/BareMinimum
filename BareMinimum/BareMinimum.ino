@@ -1,9 +1,20 @@
-void setup() {
-  // put your setup code here, to run once:
+/*
+ * Geekble Co. LTD.
+ * 아두이노에 코드 업로드 테스트를 위한 예제입니다.
+ * <https://geekble.shop/***> <링크할당>
+ * 
+ * 더 재미있는 예제를 찾아보고 여러분의 멋진 아이디어를 공유해주세요!
+ * <링크할당, 기획 확인>
+ */
 
+void setup()
+{
+  // 이곳에 초기설정을 위한 코드를 작성하세요. 아두이노가 켜질 때 한번 실행하게 됩니다.
+  
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
-
+void loop()
+{
+  // 이곳에 메인 코드를 작성하세요. 아두이노가 켜져있는 동안 계속해서 실행하게 됩니다.
+  
 }
